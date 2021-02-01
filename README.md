@@ -13,7 +13,7 @@ Clone the repository; install dependencies:\
 git clone https://github.com/Basheeralwaely/Deep-Learning-for-Human-Vision-Understanding.git  \
 pip install requirements.txt
 
-Make sure that you download any image dataset. We used DIV2K data sets with 800 high-resolution training images and 100 test images.
+Be sure to download an image dataset. We used DIV2K data sets with 800 high-resolution training images and 100 test images.
 
 There are thre ipynb files:\
 1- train.ipynp    to build your own model from scratch\
