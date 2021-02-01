@@ -1,0 +1,9 @@
+opencv-python
+lxml
+tensorflow
+matplotlib
+pillow
+skimage
+numpy
+PIL
+Keras
