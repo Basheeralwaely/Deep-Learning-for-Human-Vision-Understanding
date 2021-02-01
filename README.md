@@ -15,7 +15,7 @@ pip install requirements.txt
 
 Make sure that you download any image dataset. We used DIV2K data sets with 800 high-resolution training images and 100 test images.
 
-Therr are thre ipynb files:\
+There are thre ipynb files:\
 1- train.ipynp    to build your own model from scratch\
 2- test.ipynp     to test the pre-trained model\
 3- Videotest      to test the pre-trained model from video or camera
