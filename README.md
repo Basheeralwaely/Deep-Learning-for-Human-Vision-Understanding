@@ -4,10 +4,10 @@ Basheer Alwaely and Ali Alsam
 
 In this work, we try to understand the color interpolation by recovering missing information from other channels.\
 Clone the repository; install dependencies:\
-1- tensorflow-gpu\
+1- Tensorflow-gpu\
 2- Cuda\
 3- Keras\
-4- OPen-cv\
+4- Open-cv\
 5- python3
 
 git clone https://github.com/Basheeralwaely/Deep-Learning-for-Human-Vision-Understanding.git  \
