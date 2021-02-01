@@ -10,5 +10,5 @@ Clone the repository; install dependencies
 2- Cuda
 3- Keras
 
-git clone https://github.com/
+git clone https://github.com/Basheeralwaely/Deep-Learning-for-Human-Vision-Understanding.git
 pip install requirements.txt
